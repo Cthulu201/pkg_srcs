@@ -3,4 +3,4 @@
 
 This is a reservation, I might not follow through.
 
-I compare hashes already in the PKGBUILD before uploading.
+I compare hashes already in the PKGBUILD before uploading. I'm not responsible for the files or their contents.
